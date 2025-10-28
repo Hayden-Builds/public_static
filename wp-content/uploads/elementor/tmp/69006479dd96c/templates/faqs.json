@@ -1,0 +1,985 @@
+{
+    "version": "0.4",
+    "title": "FAQs",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "280c1575",
+            "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "5",
+                    "bottom": "0",
+                    "left": "5",
+                    "isLinked": false
+                },
+                "_title": "Header Heading"
+            },
+            "elements": [
+                {
+                    "id": "75a4394e",
+                    "settings": {
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 650,
+                            "sizes": []
+                        },
+                        "min_height": {
+                            "unit": "vh",
+                            "size": 50,
+                            "sizes": []
+                        },
+                        "min_height_tablet": {
+                            "unit": "vh",
+                            "size": 40,
+                            "sizes": []
+                        },
+                        "min_height_mobile": {
+                            "unit": "vh",
+                            "size": 40,
+                            "sizes": []
+                        },
+                        "flex_justify_content": "center",
+                        "background_background": "gradient",
+                        "background_overlay_background": "classic",
+                        "background_overlay_image": {
+                            "url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/shot-of-a-happy-young-gardener-smiling-at-the-came-2025-10-03-12-28-25-utc.jpg",
+                            "id": 474,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "background_overlay_position": "top center",
+                        "background_overlay_size": "cover",
+                        "background_overlay_opacity": {
+                            "unit": "px",
+                            "size": 0.2,
+                            "sizes": []
+                        },
+                        "css_filters_css_filter": "custom",
+                        "css_filters_saturate": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": []
+                        },
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=6c86da5",
+                            "background_color_b": "globals\/colors?id=125156e"
+                        },
+                        "_title": "Edit here"
+                    },
+                    "elements": [
+                        {
+                            "id": "208990e9",
+                            "settings": {
+                                "title": "FAQs",
+                                "header_size": "h1",
+                                "align": "center",
+                                "_background_color_stop_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_color_stop_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_color_b_stop_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_color_b_stop_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_gradient_angle_tablet": {
+                                    "unit": "deg",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_gradient_angle_mobile": {
+                                    "unit": "deg",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_gradient_position_tablet": "center center",
+                                "_background_gradient_position_mobile": "center center",
+                                "_background_hover_color_stop_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_color_stop_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_color_b_stop_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_color_b_stop_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_gradient_angle_tablet": {
+                                    "unit": "deg",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_gradient_angle_mobile": {
+                                    "unit": "deg",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_gradient_position_tablet": "center center",
+                                "_background_hover_gradient_position_mobile": "center center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "67dd5d62",
+                            "settings": {
+                                "editor": "<p><a href=\"#\">Homepage<\/a> &gt; FAQs<\/p>",
+                                "align": "center",
+                                "paragraph_spacing": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "link_hover_color_transition_duration": {
+                                    "unit": "s",
+                                    "size": 0.2,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=accent",
+                                    "text_color": "globals\/colors?id=secondary",
+                                    "link_color": "globals\/colors?id=db14066",
+                                    "link_hover_color": "globals\/colors?id=secondary"
+                                },
+                                "_background_color_stop_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_color_stop_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_color_b_stop_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_color_b_stop_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_gradient_angle_tablet": {
+                                    "unit": "deg",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_gradient_angle_mobile": {
+                                    "unit": "deg",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_gradient_position_tablet": "center center",
+                                "_background_gradient_position_mobile": "center center",
+                                "_background_hover_color_stop_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_color_stop_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_color_b_stop_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_color_b_stop_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_gradient_angle_tablet": {
+                                    "unit": "deg",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_gradient_angle_mobile": {
+                                    "unit": "deg",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_gradient_position_tablet": "center center",
+                                "_background_hover_gradient_position_mobile": "center center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "8a09059",
+            "settings": {
+                "flex_direction": "row",
+                "flex_align_items": "flex-start",
+                "flex_gap": {
+                    "column": "50",
+                    "row": "50",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 50
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "120",
+                    "right": "0",
+                    "bottom": "120",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "flex_direction_tablet": "column",
+                "_title": "FAQs"
+            },
+            "elements": [
+                {
+                    "id": "1bace457",
+                    "settings": {
+                        "content_width": "full",
+                        "min_height": {
+                            "unit": "vh",
+                            "size": 55,
+                            "sizes": []
+                        },
+                        "min_height_tablet": {
+                            "unit": "vh",
+                            "size": 50,
+                            "sizes": []
+                        },
+                        "min_height_mobile": {
+                            "unit": "vh",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "flex_justify_content": "space-between",
+                        "_title": "Left",
+                        "overflow": "hidden"
+                    },
+                    "elements": [
+                        {
+                            "id": "56f63def",
+                            "settings": {
+                                "content_width": "full",
+                                "_title": "Heading"
+                            },
+                            "elements": [
+                                {
+                                    "id": "14d4d3d3",
+                                    "settings": {
+                                        "title": "Frequently Asked Questions",
+                                        "header_size": "h6"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "382c5b3a",
+                                    "settings": {
+                                        "title": "Helping You Understand Our Process Better"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "35438bb5",
+                            "settings": {
+                                "content_width": "full",
+                                "background_overlay_background": "classic",
+                                "background_overlay_opacity": {
+                                    "unit": "px",
+                                    "size": 0.1,
+                                    "sizes": []
+                                },
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "25",
+                                    "right": "25",
+                                    "bottom": "25",
+                                    "left": "25",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "background_overlay_color": "globals\/colors?id=d2c5979"
+                                },
+                                "_title": "Send Email",
+                                "animation": "fadeInLeft",
+                                "animation_duration": "slow"
+                            },
+                            "elements": [
+                                {
+                                    "id": "53746011",
+                                    "settings": {
+                                        "title": "Still have question ?",
+                                        "header_size": "h4"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "362227e0",
+                                    "settings": {
+                                        "editor": "<p>Can\u2019t find the answer you\u2019re looking for? Our team is here to help! Reach out to us anytime \u2014 we\u2019ll be happy to provide expert guidance and personalized advice for your landscaping or gardening needs.<\/p>"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "text-editor",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "4cce70f3",
+                                    "settings": {
+                                        "text": "Send email",
+                                        "hover_animation": "grow"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "355b99ec",
+                    "settings": {
+                        "content_width": "full",
+                        "_title": "Right",
+                        "overflow": "hidden"
+                    },
+                    "elements": [
+                        {
+                            "id": "1f9620c5",
+                            "settings": {
+                                "items": [
+                                    {
+                                        "item_title": "How long does a typical landscaping project take?",
+                                        "_id": "a5fd0d4"
+                                    },
+                                    {
+                                        "item_title": "Do you provide custom garden designs based on my preferences?",
+                                        "_id": "8e6ae75"
+                                    },
+                                    {
+                                        "item_title": "What maintenance services do you offer after the project is completed?",
+                                        "_id": "1cfee86"
+                                    },
+                                    {
+                                        "_id": "a0765ae",
+                                        "item_title": "Are your landscaping solutions environmentally friendly?"
+                                    }
+                                ],
+                                "accordion_item_title_position_horizontal": "stretch",
+                                "accordion_item_title_icon_position": "end",
+                                "accordion_item_title_space_between": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "accordion_background_normal_background": "classic",
+                                "accordion_border_normal_border": "none",
+                                "accordion_background_hover_background": "classic",
+                                "accordion_border_hover_border": "none",
+                                "accordion_background_active_background": "classic",
+                                "accordion_border_active_border": "none",
+                                "accordion_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "accordion_padding": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "30",
+                                    "bottom": "10",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Manrope",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "title_typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 17,
+                                    "sizes": []
+                                },
+                                "title_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "title_typography_font_weight": "600",
+                                "title_typography_text_transform": "capitalize",
+                                "normal_title_color": "#FFFFFF",
+                                "hover_title_color": "#FFFFFF",
+                                "active_title_color": "#FFFFFF",
+                                "content_background_background": "classic",
+                                "content_padding": {
+                                    "unit": "px",
+                                    "top": "25",
+                                    "right": "25",
+                                    "bottom": "25",
+                                    "left": "25",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "accordion_background_normal_color": "globals\/colors?id=077d98b",
+                                    "title_typography_typography": "globals\/typography?id=accent",
+                                    "normal_title_color": "globals\/colors?id=primary",
+                                    "hover_title_color": "globals\/colors?id=secondary",
+                                    "active_title_color": "globals\/colors?id=secondary",
+                                    "accordion_background_hover_color": "globals\/colors?id=accent",
+                                    "accordion_background_active_color": "globals\/colors?id=accent",
+                                    "content_background_color": "globals\/colors?id=077d98b"
+                                },
+                                "faq_schema": "yes",
+                                "accordion_item_title_distance_from_content": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "content_border_border": "none",
+                                "content_border_radius": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "_animation": "fadeInRight",
+                                "animation_duration": "slow"
+                            },
+                            "elements": [
+                                {
+                                    "id": "46fdd4c8",
+                                    "settings": {
+                                        "_title": "item #1",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3304384b",
+                                            "settings": {
+                                                "editor": "<p>The timeline depends on the project\u2019s size, design complexity, and materials used. For smaller garden makeovers, it usually takes between 1 to 2 weeks, while larger landscape transformations may take 4 to 6 weeks or more. Before we begin, our team provides a clear project schedule and progress milestones, ensuring you know exactly what to expect from start to finish. We also keep open communication throughout the process to minimize disruptions and deliver results on time.<\/p>",
+                                                "paragraph_spacing": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "text_color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container",
+                                    "isLocked": true
+                                },
+                                {
+                                    "id": "ad25ddd",
+                                    "settings": {
+                                        "_title": "item #2",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "29ee1b6c",
+                                            "settings": {
+                                                "editor": "<p>Absolutely! Every garden we design is unique \u2014 tailored to match your lifestyle, aesthetic taste, and the specific conditions of your outdoor space. Our design team begins with an in-depth consultation to understand your vision, preferred plants, color schemes, and functional needs. We then create a personalized layout plan, incorporating natural elements and sustainable solutions to bring your dream garden to life. You\u2019ll have full input throughout the process to ensure the final design truly reflects <em data-start=\"1312\" data-end=\"1317\">you<\/em>.<\/p>",
+                                                "paragraph_spacing": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "text_color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container",
+                                    "isLocked": true
+                                },
+                                {
+                                    "id": "418a093d",
+                                    "settings": {
+                                        "_title": "item #3",
+                                        "content_width": "full"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2fec8de",
+                                            "settings": {
+                                                "editor": "<p>We provide a range of ongoing maintenance services to keep your garden in perfect condition all year round. This includes lawn care, trimming, fertilization, seasonal planting, pest control, and irrigation system checks. Our goal is to ensure your outdoor space remains healthy and beautiful long after installation. We also offer customizable maintenance plans \u2014 from monthly visits to full-service packages \u2014 depending on your garden\u2019s size and care needs.<\/p>",
+                                                "paragraph_spacing": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "text_color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container",
+                                    "isLocked": true
+                                },
+                                {
+                                    "id": "6fbac116",
+                                    "settings": {
+                                        "_title": "Item #4"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "71b36ce3",
+                                            "settings": {
+                                                "editor": "<p data-start=\"1944\" data-end=\"2418\">Yes, sustainability is at the heart of everything we do. We use eco-friendly materials, efficient irrigation systems, and native plants that require less water and maintenance. Our design approach prioritizes soil health, biodiversity, and long-term growth, ensuring your garden thrives naturally while reducing environmental impact. By choosing our landscaping services, you\u2019re not only beautifying your property but also contributing to a greener, more sustainable future.<\/p>",
+                                                "paragraph_spacing": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "text_color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container",
+                                    "isLocked": true
+                                }
+                            ],
+                            "isInner": false,
+                            "widgetType": "nested-accordion",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "1731cb39",
+            "settings": {
+                "flex_direction": "column",
+                "z_index": 1,
+                "_title": "CTA",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "120",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "1cbd4fa9",
+                    "settings": {
+                        "content_width": "full",
+                        "min_height": {
+                            "unit": "vh",
+                            "size": 36,
+                            "sizes": []
+                        },
+                        "min_height_tablet": {
+                            "unit": "vh",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "min_height_mobile": {
+                            "unit": "vh",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "flex_justify_content": "center",
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/CTABanner.jpg",
+                            "id": 139,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "background_position": "center center",
+                        "background_repeat": "no-repeat",
+                        "background_size": "cover",
+                        "background_bg_width": {
+                            "unit": "vw",
+                            "size": 84,
+                            "sizes": []
+                        },
+                        "background_bg_width_tablet": {
+                            "unit": "vw",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "background_bg_width_mobile": {
+                            "unit": "vw",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=primary"
+                        },
+                        "background_overlay_background": "classic",
+                        "background_overlay_image": {
+                            "url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/envato-labs-ai-8fc2c9ce-dd41-4cab-8caa-2ce6ef507cc9.png",
+                            "id": 143,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "background_overlay_position": "initial",
+                        "background_overlay_xpos": {
+                            "unit": "px",
+                            "size": 900,
+                            "sizes": []
+                        },
+                        "background_overlay_ypos": {
+                            "unit": "px",
+                            "size": 8,
+                            "sizes": []
+                        },
+                        "background_overlay_repeat": "no-repeat",
+                        "background_overlay_size": "initial",
+                        "background_overlay_bg_width": {
+                            "unit": "%",
+                            "size": 16,
+                            "sizes": []
+                        },
+                        "background_overlay_opacity": {
+                            "unit": "px",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "_title": "Edit here",
+                        "background_overlay_xpos_tablet": {
+                            "unit": "px",
+                            "size": 510,
+                            "sizes": []
+                        },
+                        "background_overlay_ypos_tablet": {
+                            "unit": "px",
+                            "size": 10,
+                            "sizes": []
+                        },
+                        "background_overlay_bg_width_tablet": {
+                            "unit": "px",
+                            "size": 211,
+                            "sizes": []
+                        },
+                        "background_overlay_opacity_mobile": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "79dc9237",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "_flex_align_self": "center",
+                                "_title": "Heading",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 61,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "39f7a633",
+                                    "settings": {
+                                        "title": "Ready to Grow Your Dream Garden?",
+                                        "align": "center",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=secondary"
+                                        },
+                                        "_background_color_stop_tablet": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_color_stop_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_color_b_stop_tablet": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_color_b_stop_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_gradient_angle_tablet": {
+                                            "unit": "deg",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_gradient_angle_mobile": {
+                                            "unit": "deg",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_gradient_position_tablet": "center center",
+                                        "_background_gradient_position_mobile": "center center",
+                                        "_background_hover_color_stop_tablet": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_color_stop_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_color_b_stop_tablet": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_color_b_stop_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_gradient_angle_tablet": {
+                                            "unit": "deg",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_gradient_angle_mobile": {
+                                            "unit": "deg",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_gradient_position_tablet": "center center",
+                                        "_background_hover_gradient_position_mobile": "center center"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "7cb81323",
+                                    "settings": {
+                                        "text": "Get Started Today",
+                                        "align": "center",
+                                        "hover_animation": "grow",
+                                        "_background_color_stop_tablet": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_color_stop_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_color_b_stop_tablet": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_color_b_stop_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_gradient_angle_tablet": {
+                                            "unit": "deg",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_gradient_angle_mobile": {
+                                            "unit": "deg",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_gradient_position_tablet": "center center",
+                                        "_background_gradient_position_mobile": "center center",
+                                        "_background_hover_color_stop_tablet": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_color_stop_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_color_b_stop_tablet": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_color_b_stop_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_gradient_angle_tablet": {
+                                            "unit": "deg",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_gradient_angle_mobile": {
+                                            "unit": "deg",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_gradient_position_tablet": "center center",
+                                        "_background_hover_gradient_position_mobile": "center center"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}

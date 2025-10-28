@@ -1,0 +1,793 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Altura",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kitpro.site",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kitpro.site\/altura\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kitpro.site\/altura\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/kitpro.site\/altura\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Services",
+            "screenshot": "screenshots\/single-services.jpg",
+            "source": "templates\/single-services.json",
+            "preview_url": "https:\/\/kitpro.site\/altura\/template-kit\/single-services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/kitpro.site\/altura\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Event",
+            "screenshot": "screenshots\/event.jpg",
+            "source": "templates\/event.json",
+            "preview_url": "https:\/\/kitpro.site\/altura\/template-kit\/event\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Review",
+            "screenshot": "screenshots\/review.jpg",
+            "source": "templates\/review.json",
+            "preview_url": "https:\/\/kitpro.site\/altura\/template-kit\/review\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/kitpro.site\/altura\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kitpro.site\/altura\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/kitpro.site\/altura\/template-kit\/404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/kitpro.site\/altura\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kitpro.site\/altura\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kitpro.site\/altura\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.9",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "Qi Addons For Elementor",
+            "version": "1.5.4",
+            "file": "qi-addons-for-elementor\/class-qiaddonsforelementor.php",
+            "author": "Qode Interactive"
+        },
+        {
+            "name": "The Plus Addons for Elementor",
+            "version": "6.1.2",
+            "file": "the-plus-addons-for-elementor-page-builder\/theplus_elementor_addon.php",
+            "author": "POSIMYTH"
+        },
+        {
+            "name": "Ultimate Addons for Elementor Lite",
+            "version": "2.1.0",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.5.0",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.25.9",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "green-leaf-of-tropical-forest-plant-living-in-natu-2025-03-26-21-55-04-utc-1.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/altura\/wp-content\/uploads\/sites\/445\/2025\/09\/green-leaf-of-tropical-forest-plant-living-in-natu-2025-03-26-21-55-04-utc-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 148356,
+            "dimensions": [
+                2400,
+                1601
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EFH3T72D89?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Logo1-b.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/altura\/wp-content\/uploads\/sites\/445\/2025\/09\/Logo1-b.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 11346,
+            "dimensions": [
+                800,
+                279
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Logo2-b.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/altura\/wp-content\/uploads\/sites\/445\/2025\/09\/Logo2-b.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 14675,
+            "dimensions": [
+                800,
+                279
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Logo3-b.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/altura\/wp-content\/uploads\/sites\/445\/2025\/09\/Logo3-b.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 17292,
+            "dimensions": [
+                800,
+                279
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Logo4-b.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/altura\/wp-content\/uploads\/sites\/445\/2025\/09\/Logo4-b.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 11770,
+            "dimensions": [
+                800,
+                279
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Logo5-b.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/altura\/wp-content\/uploads\/sites\/445\/2025\/09\/Logo5-b.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 7115,
+            "dimensions": [
+                800,
+                279
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "close-up-group-of-background-tropical-green-leaves-2025-03-13-08-26-07-utc-1-1.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/altura\/wp-content\/uploads\/sites\/445\/2025\/09\/close-up-group-of-background-tropical-green-leaves-2025-03-13-08-26-07-utc-1-1-800x343.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 235536,
+            "dimensions": [
+                2300,
+                986
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EFH3T72D89?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "natural-portrait-of-woman-with-wildflowers-relaxe-2025-07-09-10-20-29-utc-Recovered-2.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/altura\/wp-content\/uploads\/sites\/445\/2025\/09\/natural-portrait-of-woman-with-wildflowers-relaxe-2025-07-09-10-20-29-utc-Recovered-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 223572,
+            "dimensions": [
+                800,
+                746
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EFH3T72D89?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "portrait-of-beautiful-asian-girl-making-nourishing-2024-12-10-03-56-47-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/altura\/wp-content\/uploads\/sites\/445\/2025\/09\/portrait-of-beautiful-asian-girl-making-nourishing-2024-12-10-03-56-47-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 244053,
+            "dimensions": [
+                2150,
+                1433
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EFH3T72D89?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Image-1.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/altura\/wp-content\/uploads\/sites\/445\/2025\/09\/Image-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 47076,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EFH3T72D89?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Image-2.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/altura\/wp-content\/uploads\/sites\/445\/2025\/09\/Image-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 65231,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EFH3T72D89?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "green-leaf-of-tropical-forest-plant-living-in-natu-2025-03-26-16-47-43-utc-1.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/altura\/wp-content\/uploads\/sites\/445\/2025\/09\/green-leaf-of-tropical-forest-plant-living-in-natu-2025-03-26-16-47-43-utc-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 195109,
+            "dimensions": [
+                2300,
+                1534
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EFH3T72D89?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "natural-portrait-of-woman-with-wildflowers-relaxe-2025-07-09-10-20-29-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/altura\/wp-content\/uploads\/sites\/445\/2025\/09\/natural-portrait-of-woman-with-wildflowers-relaxe-2025-07-09-10-20-29-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 206801,
+            "dimensions": [
+                2200,
+                1467
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EFH3T72D89?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "shot-of-a-couple-getting-a-message-in-a-spa-2025-04-06-11-28-18-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/altura\/wp-content\/uploads\/sites\/445\/2025\/09\/shot-of-a-couple-getting-a-message-in-a-spa-2025-04-06-11-28-18-utc-800x551.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                }
+            ],
+            "filesize": 241646,
+            "dimensions": [
+                2300,
+                1584
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EFH3T72D89?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "cacao-ceremony-heart-opening-ritual-in-atmospheri-2025-03-06-02-54-44-utc-1.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/altura\/wp-content\/uploads\/sites\/445\/2025\/09\/cacao-ceremony-heart-opening-ritual-in-atmospheri-2025-03-06-02-54-44-utc-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 153733,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EFH3T72D89?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "group-of-people-doing-yoga-exercises-by-the-lake-a-2025-01-29-09-05-34-utc-1.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/altura\/wp-content\/uploads\/sites\/445\/2025\/09\/group-of-people-doing-yoga-exercises-by-the-lake-a-2025-01-29-09-05-34-utc-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 179474,
+            "dimensions": [
+                2200,
+                1467
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EFH3T72D89?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Logo-Altura-Black_Mesa-de-trabajo-1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/altura\/wp-content\/uploads\/sites\/445\/2025\/09\/Logo-Altura-Black_Mesa-de-trabajo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 10301,
+            "dimensions": [
+                501,
+                153
+            ],
+            "image_source": "commercial_license",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/hand-drawn-ozone-therapy-logo_33597089.htm#fromView=search&page=1&position=24&uuid=befd395a-9b1e-4a2e-93df-08b6f58680be&query=logo+alternative+health"
+        },
+        {
+            "filename": "Logo-Altura-white_Mesa-de-trabajo-1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/altura\/wp-content\/uploads\/sites\/445\/2025\/09\/Logo-Altura-white_Mesa-de-trabajo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 9845,
+            "dimensions": [
+                501,
+                153
+            ],
+            "image_source": "commercial_license",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/hand-drawn-ozone-therapy-logo_33597089.htm#fromView=search&page=1&position=24&uuid=befd395a-9b1e-4a2e-93df-08b6f58680be&query=logo+alternative+health"
+        }
+    ]
+}

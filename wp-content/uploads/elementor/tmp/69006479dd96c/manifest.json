@@ -1,0 +1,1396 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Gardenqu - Landscape & Gardening Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/tykit.widagdos.net",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/tykit.widagdos.net\/garedenqu\/template-kit\/homepage\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/tykit.widagdos.net\/garedenqu\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/tykit.widagdos.net\/garedenqu\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/tykit.widagdos.net\/garedenqu\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Detail",
+            "screenshot": "screenshots\/service-detail.jpg",
+            "source": "templates\/service-detail.json",
+            "preview_url": "https:\/\/tykit.widagdos.net\/garedenqu\/template-kit\/service-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case Studies",
+            "screenshot": "screenshots\/case-studies.jpg",
+            "source": "templates\/case-studies.json",
+            "preview_url": "https:\/\/tykit.widagdos.net\/garedenqu\/template-kit\/case-studies\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing Plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/tykit.widagdos.net\/garedenqu\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/tykit.widagdos.net\/garedenqu\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blogs",
+            "screenshot": "screenshots\/blogs.jpg",
+            "source": "templates\/blogs.json",
+            "preview_url": "https:\/\/tykit.widagdos.net\/garedenqu\/template-kit\/blogs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/tykit.widagdos.net\/garedenqu\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Error 404",
+            "screenshot": "screenshots\/error-404.jpg",
+            "source": "templates\/error-404.json",
+            "preview_url": "https:\/\/tykit.widagdos.net\/garedenqu\/template-kit\/error-404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/tykit.widagdos.net\/garedenqu\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gardenqu - Header",
+            "screenshot": "screenshots\/gardenqu-header.jpg",
+            "source": "templates\/gardenqu-header.json",
+            "preview_url": "https:\/\/tykit.widagdos.net\/garedenqu\/template-kit\/gardenqu-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gardenqu - Footer",
+            "screenshot": "screenshots\/gardenqu-footer.jpg",
+            "source": "templates\/gardenqu-footer.json",
+            "preview_url": "https:\/\/tykit.widagdos.net\/garedenqu\/template-kit\/gardenqu-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Form - Block",
+            "screenshot": "screenshots\/contact-form-block.jpg",
+            "source": "templates\/contact-form-block.json",
+            "preview_url": "https:\/\/tykit.widagdos.net\/garedenqu\/template-kit\/contact-form-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Subscribe Form - Block",
+            "screenshot": "screenshots\/subscribe-form-block.jpg",
+            "source": "templates\/subscribe-form-block.json",
+            "preview_url": "https:\/\/tykit.widagdos.net\/garedenqu\/template-kit\/subscribe-form-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.32.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.7.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "4.0.6",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "garden-in-costa-rica-2025-01-09-06-27-39-utc.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/garden-in-costa-rica-2025-01-09-06-27-39-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 215124,
+            "dimensions": [
+                1728,
+                1152
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "envato-labs-ai-42043738-e43a-488f-b59a-0f72bdd1bd77.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/envato-labs-ai-42043738-e43a-488f-b59a-0f72bdd1bd77-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                }
+            ],
+            "filesize": 199391,
+            "dimensions": [
+                864,
+                864
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "envato-labs-ai-e7088f74-918f-4764-b3f4-231f24e5709f.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/envato-labs-ai-e7088f74-918f-4764-b3f4-231f24e5709f-800x969.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                }
+            ],
+            "filesize": 202072,
+            "dimensions": [
+                892,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "prt1.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/prt1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 6666,
+            "dimensions": [
+                350,
+                88
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "prt2.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/prt2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 7195,
+            "dimensions": [
+                350,
+                88
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "prt3.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/prt3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 7063,
+            "dimensions": [
+                350,
+                88
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "prt4.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/prt4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 8334,
+            "dimensions": [
+                350,
+                88
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "prt5.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/prt5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 8251,
+            "dimensions": [
+                350,
+                88
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "prt6.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/prt6.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 7863,
+            "dimensions": [
+                350,
+                88
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "prt7.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/prt7.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 8063,
+            "dimensions": [
+                350,
+                88
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "prt8.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/prt8.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 5726,
+            "dimensions": [
+                350,
+                88
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "prt9.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/prt9.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 5929,
+            "dimensions": [
+                350,
+                88
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "prt10.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/prt10.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 6664,
+            "dimensions": [
+                350,
+                88
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "delivery-in-the-flowers-shop-2025-03-14-06-49-46-utc.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/delivery-in-the-flowers-shop-2025-03-14-06-49-46-utc-800x1208.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 213411,
+            "dimensions": [
+                848,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "envato-labs-ai-f886e3d9-9af2-4211-8ec8-e92769b46d64.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/envato-labs-ai-f886e3d9-9af2-4211-8ec8-e92769b46d64.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/gardenqu-header.json",
+                    "name": "Gardenqu - Header"
+                }
+            ],
+            "filesize": 223559,
+            "dimensions": [
+                756,
+                756
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "1.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 19957,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "4.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 19123,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "3.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 17219,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "2.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 20434,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "envato-labs-ai-0421e78b-c8d6-4e16-9b6f-52b5bf9c32ee.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/envato-labs-ai-0421e78b-c8d6-4e16-9b6f-52b5bf9c32ee.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 209772,
+            "dimensions": [
+                645,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "envato-labs-ai-3b746c4e-3ea8-4a28-a13c-c9b4eeecb036.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/envato-labs-ai-3b746c4e-3ea8-4a28-a13c-c9b4eeecb036.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 137330,
+            "dimensions": [
+                651,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "replacing-natural-grass-turfs-2025-03-31-05-00-54-utc.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/replacing-natural-grass-turfs-2025-03-31-05-00-54-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 221304,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "Circlestroke.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/Circlestroke-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 28957,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "CTABanner.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/CTABanner-800x238.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 143171,
+            "dimensions": [
+                1920,
+                572
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "envato-labs-ai-8fc2c9ce-dd41-4cab-8caa-2ce6ef507cc9.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/envato-labs-ai-8fc2c9ce-dd41-4cab-8caa-2ce6ef507cc9.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 160260,
+            "dimensions": [
+                675,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "backyard-garden-grass-mowing-aerial-view-2025-03-15-00-24-38-utc.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/backyard-garden-grass-mowing-aerial-view-2025-03-15-00-24-38-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 179000,
+            "dimensions": [
+                1344,
+                896
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "urban-landscaping-flower-bed-with-colorful-plants-2024-09-22-19-22-47-utc.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/urban-landscaping-flower-bed-with-colorful-plants-2024-09-22-19-22-47-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 232566,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "circle-podium-in-tropical-forest-for-product-prese-2025-03-12-01-33-48-utc.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/circle-podium-in-tropical-forest-for-product-prese-2025-03-12-01-33-48-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 245168,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "beautiful-bright-flowers-stand-near-large-ceramic-2024-09-18-16-57-39-utc.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/beautiful-bright-flowers-stand-near-large-ceramic-2024-09-18-16-57-39-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 221517,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "envato-labs-ai-a286e009-2133-4b46-a116-f29ab15caf39.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/envato-labs-ai-a286e009-2133-4b46-a116-f29ab15caf39.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 245778,
+            "dimensions": [
+                756,
+                756
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "envato-labs-ai-ee1fb3c0-0b74-4ea2-afbc-ee1b5c78ceb0.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/envato-labs-ai-ee1fb3c0-0b74-4ea2-afbc-ee1b5c78ceb0-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 243392,
+            "dimensions": [
+                864,
+                864
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "6Team9.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/6Team9-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 238199,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "6Team12.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/6Team12-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 215102,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "6Team18.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/6Team18-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 171511,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "6Team20.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/6Team20-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 168805,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "shot-of-a-happy-young-gardener-smiling-at-the-came-2025-10-03-12-28-25-utc.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/shot-of-a-happy-young-gardener-smiling-at-the-came-2025-10-03-12-28-25-utc-800x300.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/blogs.json",
+                    "name": "Blogs"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 197534,
+            "dimensions": [
+                1920,
+                720
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "happy-gardeners-with-plants-and-lawn-mower-2024-10-18-09-39-18-utc.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/happy-gardeners-with-plants-and-lawn-mower-2024-10-18-09-39-18-utc-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 241988,
+            "dimensions": [
+                854,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "young-blonde-man-pruring-bonsai-at-backyard-garden-2024-12-06-06-57-03-utc.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/young-blonde-man-pruring-bonsai-at-backyard-garden-2024-12-06-06-57-03-utc-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 147977,
+            "dimensions": [
+                854,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "envato-labs-ai-4f3a921f-323e-4321-b922-fe0e1b161aac.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/envato-labs-ai-4f3a921f-323e-4321-b922-fe0e1b161aac-800x950.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 203603,
+            "dimensions": [
+                1078,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "envato-labs-ai-3df1adad-a279-4f7d-9455-081a6af562e7.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/envato-labs-ai-3df1adad-a279-4f7d-9455-081a6af562e7-800x950.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 216509,
+            "dimensions": [
+                1078,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "envato-labs-ai-df19b380-16f8-48b8-b509-ab27ce754b85.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/envato-labs-ai-df19b380-16f8-48b8-b509-ab27ce754b85-800x950.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 212865,
+            "dimensions": [
+                1078,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "envato-labs-ai-be07b470-da0d-41a0-92af-02c15ac6a89b.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/envato-labs-ai-be07b470-da0d-41a0-92af-02c15ac6a89b-800x950.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 240203,
+            "dimensions": [
+                1078,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "envato-labs-ai-63d0672d-4de8-413b-853e-efeaf57e20f2.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/envato-labs-ai-63d0672d-4de8-413b-853e-efeaf57e20f2-800x950.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 211556,
+            "dimensions": [
+                1078,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "envato-labs-ai-e24bbd4d-1aee-450e-9203-97bd8157984f.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/envato-labs-ai-e24bbd4d-1aee-450e-9203-97bd8157984f-800x950.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 207415,
+            "dimensions": [
+                1078,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "envato-labs-ai-7b4d7be3-6152-4965-a6ca-a9f3ddbf3a6f.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/envato-labs-ai-7b4d7be3-6152-4965-a6ca-a9f3ddbf3a6f-800x950.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 213581,
+            "dimensions": [
+                1078,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "envato-labs-ai-ddff311f-b109-4e36-9294-f71ba556fb22.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/envato-labs-ai-ddff311f-b109-4e36-9294-f71ba556fb22-800x950.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 222251,
+            "dimensions": [
+                1078,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "6.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/6.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 20402,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "5.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/5.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 17634,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "girl-gardener-takes-care-of-the-plants-while-the-g-2024-09-21-19-41-11-utc.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/girl-gardener-takes-care-of-the-plants-while-the-g-2024-09-21-19-41-11-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 211299,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "man-restoring-backyard-garden-grass-turfs-2025-04-01-09-41-44-utc.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/man-restoring-backyard-garden-grass-turfs-2025-04-01-09-41-44-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 214096,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "optimistic-team-of-gardeners-planting-flowers-and-2025-10-03-15-55-21-utc.jpg",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/optimistic-team-of-gardeners-planting-flowers-and-2025-10-03-15-55-21-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 214669,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "envato-labs-ai-031df989-b4d3-4ad9-a3e5-e8d42713fc23.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/envato-labs-ai-031df989-b4d3-4ad9-a3e5-e8d42713fc23.png",
+            "templates": [
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                }
+            ],
+            "filesize": 216444,
+            "dimensions": [
+                792,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/6DRU485JC3"
+        },
+        {
+            "filename": "Logo.png",
+            "thumbnail_url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/Logo.png",
+            "templates": [
+                {
+                    "source": "templates\/gardenqu-header.json",
+                    "name": "Gardenqu - Header"
+                },
+                {
+                    "source": "templates\/gardenqu-footer.json",
+                    "name": "Gardenqu - Footer"
+                }
+            ],
+            "filesize": 4030,
+            "dimensions": [
+                350,
+                100
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        }
+    ]
+}

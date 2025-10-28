@@ -1,0 +1,302 @@
+{
+    "version": "0.4",
+    "title": "Global Kit Styles",
+    "type": "section",
+    "metadata": {
+        "template_type": "global-styles",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "additional_template_information": [
+            "These are the global theme styles configured through the Elementor Theme Styles area."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [],
+    "page_settings": {
+        "system_colors": [
+            {
+                "_id": "primary",
+                "title": "Primary",
+                "color": "#000000"
+            },
+            {
+                "_id": "secondary",
+                "title": "Secondary",
+                "color": "#FAFAFA"
+            },
+            {
+                "_id": "text",
+                "title": "Text",
+                "color": "#7A7A7A"
+            },
+            {
+                "_id": "accent",
+                "title": "Accent",
+                "color": "#227D78"
+            }
+        ],
+        "custom_colors": [
+            {
+                "_id": "1f73cc4",
+                "title": "White",
+                "color": "#FFFFFF"
+            },
+            {
+                "_id": "6bac353",
+                "title": "Text Bg Dark",
+                "color": "#A9A9A9"
+            },
+            {
+                "_id": "e1acaf2",
+                "title": "Bg Gray2",
+                "color": "#F2F2F2"
+            },
+            {
+                "_id": "bab7265",
+                "title": "Bg Trans1",
+                "color": "#E3E3E33D"
+            },
+            {
+                "_id": "1befe71",
+                "title": "Bg Trans2",
+                "color": "#00000087"
+            },
+            {
+                "_id": "8cf0765",
+                "title": "Line Trans",
+                "color": "#FFFFFF17"
+            },
+            {
+                "_id": "96df9e0",
+                "title": "Light Green",
+                "color": "#EEF3F3"
+            },
+            {
+                "_id": "b5f8af5",
+                "title": "Trans Price",
+                "color": "#00000040"
+            },
+            {
+                "_id": "951a036",
+                "title": "Transparant",
+                "color": "#02010100"
+            },
+            {
+                "_id": "0683142",
+                "title": "Line2",
+                "color": "#FFFFFF5C"
+            },
+            {
+                "_id": "7350ead",
+                "title": "Icon Grad1",
+                "color": "#323232"
+            },
+            {
+                "_id": "363cd88",
+                "title": "Icon Grad2",
+                "color": "#050507"
+            },
+            {
+                "_id": "f92dcc6",
+                "title": "Bg Icon",
+                "color": "#F3F3F3"
+            },
+            {
+                "_id": "54d08bf",
+                "title": "Trans Black",
+                "color": "#FFFFFF1F"
+            },
+            {
+                "_id": "f80f264",
+                "title": "Line",
+                "color": "#FFFFFF14"
+            }
+        ],
+        "system_typography": [
+            {
+                "_id": "primary",
+                "title": "H1",
+                "typography_typography": "custom",
+                "typography_font_family": "Big Shoulders Display",
+                "typography_font_weight": "500",
+                "typography_font_size": {
+                    "unit": "em",
+                    "size": 7,
+                    "sizes": []
+                },
+                "typography_text_transform": "uppercase",
+                "typography_font_size_tablet": {
+                    "unit": "em",
+                    "size": 3.8,
+                    "sizes": []
+                },
+                "typography_font_size_mobile": {
+                    "unit": "em",
+                    "size": 3.2,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "secondary",
+                "title": "H2",
+                "typography_typography": "custom",
+                "typography_font_family": "Big Shoulders Display",
+                "typography_font_weight": "500",
+                "typography_font_size": {
+                    "unit": "em",
+                    "size": 3.5,
+                    "sizes": []
+                },
+                "typography_text_transform": "uppercase",
+                "typography_font_size_tablet": {
+                    "unit": "em",
+                    "size": 2.5,
+                    "sizes": []
+                },
+                "typography_font_size_mobile": {
+                    "unit": "em",
+                    "size": 2.3,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "text",
+                "title": "Text",
+                "typography_typography": "custom",
+                "typography_font_family": "Atkinson Hyperlegible",
+                "typography_font_weight": "400"
+            },
+            {
+                "_id": "accent",
+                "title": "H3",
+                "typography_typography": "custom",
+                "typography_font_family": "Big Shoulders Display",
+                "typography_font_weight": "500",
+                "typography_font_size": {
+                    "unit": "em",
+                    "size": 1.5,
+                    "sizes": []
+                },
+                "typography_font_size_tablet": {
+                    "unit": "em",
+                    "size": 1.2,
+                    "sizes": []
+                },
+                "typography_font_size_mobile": {
+                    "unit": "em",
+                    "size": 1.2,
+                    "sizes": []
+                },
+                "typography_text_transform": "uppercase"
+            }
+        ],
+        "custom_typography": [
+            {
+                "_id": "cfcfe69",
+                "title": "H4",
+                "typography_typography": "custom",
+                "typography_font_family": "Big Shoulders Display",
+                "typography_font_size": {
+                    "unit": "em",
+                    "size": 1.3,
+                    "sizes": []
+                },
+                "typography_font_size_tablet": {
+                    "unit": "em",
+                    "size": 1.1,
+                    "sizes": []
+                },
+                "typography_font_weight": "500",
+                "typography_text_transform": "uppercase"
+            },
+            {
+                "_id": "39ab259",
+                "title": "H5",
+                "typography_typography": "custom",
+                "typography_font_family": "Big Shoulders Display",
+                "typography_font_size": {
+                    "unit": "em",
+                    "size": 1.1,
+                    "sizes": []
+                },
+                "typography_font_size_tablet": {
+                    "unit": "em",
+                    "size": 1,
+                    "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_text_transform": "uppercase"
+            },
+            {
+                "_id": "00939cc",
+                "title": "H6",
+                "typography_typography": "custom",
+                "typography_font_family": "Big Shoulders Display",
+                "typography_font_size": {
+                    "unit": "em",
+                    "size": 1,
+                    "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_text_transform": "uppercase"
+            }
+        ],
+        "default_generic_fonts": "Sans-serif",
+        "container_width": {
+            "unit": "px",
+            "size": 1300,
+            "sizes": []
+        },
+        "page_title_selector": "h1.entry-title",
+        "hfe_scroll_to_top_button_text": "Up",
+        "hello_footer_copyright_text": "All rights reserved",
+        "viewport_md": 768,
+        "viewport_lg": 1025,
+        "activeItemIndex": 1,
+        "button_border_radius": {
+            "unit": "px",
+            "top": "50",
+            "right": "50",
+            "bottom": "50",
+            "left": "50",
+            "isLinked": true
+        },
+        "button_padding": {
+            "unit": "px",
+            "top": "17",
+            "right": "40",
+            "bottom": "17",
+            "left": "40",
+            "isLinked": false
+        },
+        "button_padding_tablet": {
+            "unit": "px",
+            "top": "17",
+            "right": "20",
+            "bottom": "17",
+            "left": "20",
+            "isLinked": false
+        },
+        "__globals__": {
+            "body_color": "globals\/colors?id=text",
+            "body_typography_typography": "globals\/typography?id=text",
+            "link_normal_color": "globals\/colors?id=1f73cc4",
+            "h1_color": "globals\/colors?id=primary",
+            "h1_typography_typography": "globals\/typography?id=primary",
+            "h2_color": "globals\/colors?id=primary",
+            "h2_typography_typography": "globals\/typography?id=secondary",
+            "h3_color": "globals\/colors?id=primary",
+            "h3_typography_typography": "globals\/typography?id=accent",
+            "h4_color": "globals\/colors?id=primary",
+            "h4_typography_typography": "globals\/typography?id=cfcfe69",
+            "h5_color": "globals\/colors?id=primary",
+            "h5_typography_typography": "globals\/typography?id=39ab259",
+            "h6_color": "globals\/colors?id=primary",
+            "h6_typography_typography": "globals\/typography?id=00939cc",
+            "button_typography_typography": "globals\/typography?id=text",
+            "button_text_color": "globals\/colors?id=1f73cc4",
+            "button_background_color": "globals\/colors?id=accent",
+            "button_hover_background_color": "globals\/colors?id=primary"
+        }
+    }
+}

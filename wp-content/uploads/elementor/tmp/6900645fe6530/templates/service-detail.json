@@ -1,0 +1,1139 @@
+{
+    "version": "0.4",
+    "title": "Service Detail",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "12ed288e",
+            "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "5",
+                    "bottom": "0",
+                    "left": "5",
+                    "isLinked": false
+                },
+                "_title": "Header Heading"
+            },
+            "elements": [
+                {
+                    "id": "3fd221c2",
+                    "settings": {
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 1000,
+                            "sizes": []
+                        },
+                        "min_height": {
+                            "unit": "vh",
+                            "size": 50,
+                            "sizes": []
+                        },
+                        "min_height_tablet": {
+                            "unit": "vh",
+                            "size": 40,
+                            "sizes": []
+                        },
+                        "min_height_mobile": {
+                            "unit": "vh",
+                            "size": 40,
+                            "sizes": []
+                        },
+                        "flex_justify_content": "center",
+                        "background_background": "gradient",
+                        "background_overlay_background": "classic",
+                        "background_overlay_image": {
+                            "url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/shot-of-a-happy-young-gardener-smiling-at-the-came-2025-10-03-12-28-25-utc.jpg",
+                            "id": 474,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "background_overlay_position": "top center",
+                        "background_overlay_size": "cover",
+                        "background_overlay_opacity": {
+                            "unit": "px",
+                            "size": 0.2,
+                            "sizes": []
+                        },
+                        "css_filters_css_filter": "custom",
+                        "css_filters_saturate": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": []
+                        },
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=6c86da5",
+                            "background_color_b": "globals\/colors?id=125156e"
+                        },
+                        "_title": "Edit here"
+                    },
+                    "elements": [
+                        {
+                            "id": "27259586",
+                            "settings": {
+                                "title": "Garden Design & Layout",
+                                "header_size": "h1",
+                                "align": "center",
+                                "_background_color_stop_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_color_stop_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_color_b_stop_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_color_b_stop_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_gradient_angle_tablet": {
+                                    "unit": "deg",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_gradient_angle_mobile": {
+                                    "unit": "deg",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_gradient_position_tablet": "center center",
+                                "_background_gradient_position_mobile": "center center",
+                                "_background_hover_color_stop_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_color_stop_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_color_b_stop_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_color_b_stop_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_gradient_angle_tablet": {
+                                    "unit": "deg",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_gradient_angle_mobile": {
+                                    "unit": "deg",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_gradient_position_tablet": "center center",
+                                "_background_hover_gradient_position_mobile": "center center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3b8ac3db",
+                            "settings": {
+                                "editor": "<p><a href=\"#\">Homepage<\/a> &gt;<a href=\"#\"> Services<\/a> &gt; Service Detail<\/p>",
+                                "align": "center",
+                                "paragraph_spacing": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "link_hover_color_transition_duration": {
+                                    "unit": "s",
+                                    "size": 0.2,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=accent",
+                                    "text_color": "globals\/colors?id=secondary",
+                                    "link_color": "globals\/colors?id=db14066",
+                                    "link_hover_color": "globals\/colors?id=secondary"
+                                },
+                                "_background_color_stop_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_color_stop_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_color_b_stop_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_color_b_stop_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_gradient_angle_tablet": {
+                                    "unit": "deg",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_gradient_angle_mobile": {
+                                    "unit": "deg",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_gradient_position_tablet": "center center",
+                                "_background_gradient_position_mobile": "center center",
+                                "_background_hover_color_stop_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_color_stop_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_color_b_stop_tablet": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_color_b_stop_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_gradient_angle_tablet": {
+                                    "unit": "deg",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_gradient_angle_mobile": {
+                                    "unit": "deg",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_background_hover_gradient_position_tablet": "center center",
+                                "_background_hover_gradient_position_mobile": "center center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "3d7c8986",
+            "settings": {
+                "flex_direction": "row",
+                "flex_direction_tablet": "column",
+                "flex_gap": {
+                    "column": "50",
+                    "row": "50",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 50
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "120",
+                    "right": "0",
+                    "bottom": "120",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "_title": "Service Detail"
+            },
+            "elements": [
+                {
+                    "id": "30c4bc45",
+                    "settings": {
+                        "content_width": "full",
+                        "_title": "Left"
+                    },
+                    "elements": [
+                        {
+                            "id": "29dccfa5",
+                            "settings": {
+                                "title": "Garden Design & Layout"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6593b6b",
+                            "settings": {
+                                "editor": "<p>Creating a truly beautiful garden begins with thoughtful design and precise planning. At our landscape studio, our <strong data-start=\"398\" data-end=\"424\">Garden Design &amp; Layout<\/strong> service combines artistry, functionality, and ecological awareness to craft spaces that are both visually stunning and deeply connected to nature. We believe every garden tells a story \u2014 a reflection of its owner\u2019s lifestyle, emotions, and aspirations. Our mission is to translate that story into a living masterpiece that grows and evolves gracefully over time.<\/p>"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6cc450d1",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/girl-gardener-takes-care-of-the-plants-while-the-g-2024-09-21-19-41-11-utc.jpg",
+                                    "id": 257,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "265d7494",
+                            "settings": {
+                                "editor": "<p>Our process begins with an in-depth consultation, where we take the time to understand your vision, daily habits, and aesthetic preferences. We study your outdoor environment carefully, analyzing soil composition, drainage, sunlight exposure, and existing features to create a foundation that supports both beauty and sustainability. This personalized approach ensures that every design is not only visually appealing but also practical, enduring, and suited to your local climate.<\/p><p>Once the groundwork is complete, our designers move into the creative phase \u2014 transforming ideas into detailed plans and layout sketches. We focus on creating balance between natural and architectural elements: pathways that flow naturally, plant groupings that create texture and depth, and seating areas that invite relaxation. Every curve, color, and composition is designed to enhance your experience in the garden \u2014 whether it\u2019s a peaceful morning coffee spot, a vibrant flower bed, or a quiet reading corner beneath the trees.<\/p>"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "753cdadc",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_direction": "row",
+                                "_title": "Img"
+                            },
+                            "elements": [
+                                {
+                                    "id": "484212f6",
+                                    "settings": {
+                                        "image": {
+                                            "url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/beautiful-bright-flowers-stand-near-large-ceramic-2024-09-18-16-57-39-utc.jpg",
+                                            "id": 173,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "image_size": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "2d557d18",
+                                    "settings": {
+                                        "image": {
+                                            "url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/replacing-natural-grass-turfs-2025-03-31-05-00-54-utc.jpg",
+                                            "id": 129,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "image_size": "full"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "6aa0cc6e",
+                            "settings": {
+                                "editor": "<p>In selecting plants and materials, we emphasize <strong data-start=\"1860\" data-end=\"1899\">sustainability and long-term growth<\/strong>. Our horticultural experts choose native or climate-friendly species that require minimal maintenance while preserving biodiversity. We incorporate eco-friendly solutions such as rainwater collection systems, smart irrigation, and organic soil treatments to minimize water waste and chemical use. The result is a living space that flourishes naturally and remains resilient throughout the seasons.<\/p><p>Beyond the design itself, we provide guidance on plant care, seasonal maintenance, and layout adjustments as your garden matures. Our relationship doesn\u2019t end when the design is complete \u2014 we remain your gardening partner, ensuring that your outdoor space continues to thrive and reflect your evolving needs.<\/p>"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5b28d4e3",
+                            "settings": {
+                                "content_width": "full",
+                                "min_height": {
+                                    "unit": "vh",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "min_height_tablet": {
+                                    "unit": "vh",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "min_height_mobile": {
+                                    "unit": "vh",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "flex_justify_content": "center",
+                                "background_background": "classic",
+                                "background_image": {
+                                    "url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/backyard-garden-grass-mowing-aerial-view-2025-03-15-00-24-38-utc.jpg",
+                                    "id": 169,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "background_position": "center center",
+                                "background_size": "cover",
+                                "_title": "Video"
+                            },
+                            "elements": [
+                                {
+                                    "id": "383c0ba0",
+                                    "settings": {
+                                        "ekit_video_popup_url": "https:\/\/www.youtube.com\/watch?v=VhBl3dHT5SY",
+                                        "ekit_video_popup_button_title": "Play Video",
+                                        "ekit_video_inline_button_title": "Play Video",
+                                        "ekit_video_popup_button_icons": {
+                                            "value": "fas fa-play",
+                                            "library": "fa-solid"
+                                        },
+                                        "ekit_video_popup_btn_bg_color_background": "classic",
+                                        "ekit_video_popup_btn_bg_hover_color_background": "classic",
+                                        "_z_index": 2,
+                                        "__globals__": {
+                                            "ekit_video_popup_btn_glow_color": "globals\/colors?id=secondary",
+                                            "ekit_video_popup_btn_bg_color_color": "globals\/colors?id=accent",
+                                            "ekit_video_popup_btn_text_color": "globals\/colors?id=secondary",
+                                            "ekit_video_popup_btn_hover_color": "globals\/colors?id=secondary",
+                                            "ekit_video_popup_btn_bg_hover_color_color": "globals\/colors?id=primary"
+                                        },
+                                        "_padding_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_z_index_tablet": 0
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "elementskit-video",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "42a3b9e5",
+                            "settings": {
+                                "editor": "<p>Whether you dream of a minimalist urban retreat, a tropical sanctuary, or a classic English-inspired garden, we bring your ideas to life with precision, creativity, and respect for nature. With <strong data-start=\"2807\" data-end=\"2833\">Garden Design &amp; Layout<\/strong>, your outdoor area becomes more than a yard \u2014 it becomes a harmonious extension of your home, a sanctuary where beauty, balance, and serenity meet.<\/p>"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "d2faa51",
+                    "settings": {
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 50,
+                            "sizes": []
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "flex_direction_tablet": "row",
+                        "flex_gap": {
+                            "column": "50",
+                            "row": "50",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 50
+                        },
+                        "flex_gap_tablet": {
+                            "column": "20",
+                            "row": "20",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 20
+                        },
+                        "flex_wrap_tablet": "wrap",
+                        "_title": "Right"
+                    },
+                    "elements": [
+                        {
+                            "id": "39e0d019",
+                            "settings": {
+                                "content_width": "full",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48.3,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "flex_gap": {
+                                    "column": "10",
+                                    "row": "10",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 10
+                                },
+                                "background_overlay_background": "classic",
+                                "background_overlay_opacity": {
+                                    "unit": "px",
+                                    "size": 0.1,
+                                    "sizes": []
+                                },
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "25",
+                                    "bottom": "30",
+                                    "left": "25",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "background_overlay_color": "globals\/colors?id=d2c5979"
+                                },
+                                "_title": "Service List"
+                            },
+                            "elements": [
+                                {
+                                    "id": "45252c5d",
+                                    "settings": {
+                                        "title": "service list",
+                                        "header_size": "h4",
+                                        "align": "left",
+                                        "align_tablet": "center",
+                                        "_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "15",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_border_border": "solid",
+                                        "_border_width": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "2",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "__globals__": {
+                                            "_border_color": "globals\/colors?id=primary"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "36fb9c13",
+                                    "settings": {
+                                        "space": {
+                                            "unit": "px",
+                                            "size": 15,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "spacer",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "36806e92",
+                                    "settings": {
+                                        "text": "Garden Design & Layout",
+                                        "icon_align": "row-reverse",
+                                        "icon_indent": {
+                                            "unit": "px",
+                                            "size": 150,
+                                            "sizes": []
+                                        },
+                                        "align": "justify",
+                                        "content_align": "start",
+                                        "content_align_tablet": "center",
+                                        "border_border": "solid",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "hover_color": "globals\/colors?id=secondary",
+                                            "button_background_hover_color": "globals\/colors?id=accent",
+                                            "border_color": "globals\/colors?id=accent"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "10998f36",
+                                    "settings": {
+                                        "text": "Planting & Maintenance",
+                                        "icon_align": "row-reverse",
+                                        "icon_indent": {
+                                            "unit": "px",
+                                            "size": 150,
+                                            "sizes": []
+                                        },
+                                        "align": "justify",
+                                        "content_align": "start",
+                                        "content_align_tablet": "center",
+                                        "border_border": "solid",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "hover_color": "globals\/colors?id=secondary",
+                                            "button_background_hover_color": "globals\/colors?id=accent",
+                                            "background_color": "globals\/colors?id=cba403f",
+                                            "button_text_color": "globals\/colors?id=primary",
+                                            "border_color": "globals\/colors?id=accent"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "11015884",
+                                    "settings": {
+                                        "text": "Irrigation System Installation",
+                                        "icon_align": "row-reverse",
+                                        "icon_indent": {
+                                            "unit": "px",
+                                            "size": 150,
+                                            "sizes": []
+                                        },
+                                        "align": "justify",
+                                        "content_align": "start",
+                                        "border_border": "solid",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "hover_color": "globals\/colors?id=secondary",
+                                            "button_background_hover_color": "globals\/colors?id=accent",
+                                            "background_color": "globals\/colors?id=cba403f",
+                                            "button_text_color": "globals\/colors?id=primary",
+                                            "border_color": "globals\/colors?id=accent"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "5d2aba5b",
+                                    "settings": {
+                                        "text": "Tree & Shrub Care",
+                                        "icon_align": "row-reverse",
+                                        "icon_indent": {
+                                            "unit": "px",
+                                            "size": 150,
+                                            "sizes": []
+                                        },
+                                        "align": "justify",
+                                        "content_align": "start",
+                                        "content_align_tablet": "center",
+                                        "border_border": "solid",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "hover_color": "globals\/colors?id=secondary",
+                                            "button_background_hover_color": "globals\/colors?id=accent",
+                                            "background_color": "globals\/colors?id=cba403f",
+                                            "button_text_color": "globals\/colors?id=primary",
+                                            "border_color": "globals\/colors?id=accent"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "f8d8556",
+                                    "settings": {
+                                        "text": "Lawn Care & Restoration",
+                                        "icon_align": "row-reverse",
+                                        "icon_indent": {
+                                            "unit": "px",
+                                            "size": 150,
+                                            "sizes": []
+                                        },
+                                        "align": "justify",
+                                        "content_align": "start",
+                                        "content_align_tablet": "center",
+                                        "border_border": "solid",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "hover_color": "globals\/colors?id=secondary",
+                                            "button_background_hover_color": "globals\/colors?id=accent",
+                                            "background_color": "globals\/colors?id=cba403f",
+                                            "button_text_color": "globals\/colors?id=primary",
+                                            "border_color": "globals\/colors?id=accent"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "28ea539f",
+                                    "settings": {
+                                        "text": "Garden Cleanup & Waste Removal",
+                                        "icon_align": "row-reverse",
+                                        "icon_indent": {
+                                            "unit": "px",
+                                            "size": 150,
+                                            "sizes": []
+                                        },
+                                        "align": "justify",
+                                        "content_align": "start",
+                                        "content_align_tablet": "center",
+                                        "border_border": "solid",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "hover_color": "globals\/colors?id=secondary",
+                                            "button_background_hover_color": "globals\/colors?id=accent",
+                                            "background_color": "globals\/colors?id=cba403f",
+                                            "button_text_color": "globals\/colors?id=primary",
+                                            "border_color": "globals\/colors?id=accent"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "597a2170",
+                            "settings": {
+                                "content_width": "full",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 48.3,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "flex_gap": {
+                                    "column": "0",
+                                    "row": "0",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "_title": "CTA"
+                            },
+                            "elements": [
+                                {
+                                    "id": "314b19",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "min_height": {
+                                            "unit": "vh",
+                                            "size": 55,
+                                            "sizes": []
+                                        },
+                                        "min_height_tablet": {
+                                            "unit": "vh",
+                                            "size": 44,
+                                            "sizes": []
+                                        },
+                                        "min_height_mobile": {
+                                            "unit": "vh",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "flex_justify_content": "flex-end",
+                                        "background_background": "classic",
+                                        "background_image": {
+                                            "url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/man-restoring-backyard-garden-grass-turfs-2025-04-01-09-41-44-utc.jpg",
+                                            "id": 252,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "background_position": "center center",
+                                        "background_size": "cover",
+                                        "background_overlay_background": "gradient",
+                                        "background_overlay_gradient_angle": {
+                                            "unit": "deg",
+                                            "size": 185,
+                                            "sizes": []
+                                        },
+                                        "background_overlay_image": {
+                                            "url": "",
+                                            "id": "",
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "background_overlay_position": "center center",
+                                        "background_overlay_size": "cover",
+                                        "background_overlay_opacity": {
+                                            "unit": "px",
+                                            "size": 1,
+                                            "sizes": []
+                                        },
+                                        "css_filters_saturate": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "20",
+                                            "right": "20",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "__globals__": {
+                                            "background_color": "globals\/colors?id=cba403f",
+                                            "background_color_b": "globals\/colors?id=125156e",
+                                            "background_overlay_color": "globals\/colors?id=cba403f",
+                                            "background_overlay_color_b": "globals\/colors?id=125156e"
+                                        },
+                                        "_title": "Img Here"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3870e6fc",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/tykit.widagdos.net\/garedenqu\/wp-content\/uploads\/sites\/27\/2025\/10\/envato-labs-ai-8fc2c9ce-dd41-4cab-8caa-2ce6ef507cc9.png",
+                                                    "id": 143,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "full",
+                                                "align": "center",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 65,
+                                                    "sizes": []
+                                                },
+                                                "width_tablet": {
+                                                    "unit": "%",
+                                                    "size": 63,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                },
+                                {
+                                    "id": "5cc0f3fd",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_gap": {
+                                            "column": "",
+                                            "row": "",
+                                            "isLinked": true,
+                                            "unit": "px",
+                                            "size": null
+                                        },
+                                        "background_background": "gradient",
+                                        "border_border": "solid",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "20",
+                                            "left": "20",
+                                            "isLinked": false
+                                        },
+                                        "margin": {
+                                            "unit": "%",
+                                            "top": "-13",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "margin_tablet": {
+                                            "unit": "%",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "%",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "25",
+                                            "right": "25",
+                                            "bottom": "25",
+                                            "left": "25",
+                                            "isLinked": true
+                                        },
+                                        "z_index": 1,
+                                        "__globals__": {
+                                            "background_color": "globals\/colors?id=accent",
+                                            "background_color_b": "globals\/colors?id=125156e",
+                                            "border_color": "globals\/colors?id=db14066"
+                                        },
+                                        "_title": "Heading Here"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "276fae57",
+                                            "settings": {
+                                                "ekit_heading_title": "Ready to {{Grow}} Something Beautiful?",
+                                                "ekit_heading_title_tag": "h3",
+                                                "ekit_heading_sub_title": "Time has changed",
+                                                "shadow_text_content": "bussiness",
+                                                "ekit_heading_show_seperator": "",
+                                                "ekit_heading_title_align": "text_center",
+                                                "ekit_heading_title_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "ekit_heading_title_typography_typography": "globals\/typography?id=c83ecb2",
+                                                    "ekit_heading_title_color": "globals\/colors?id=secondary",
+                                                    "ekit_heading_title_color_hover": "globals\/colors?id=secondary",
+                                                    "ekit_heading_focused_title_color": "globals\/colors?id=db14066",
+                                                    "ekit_heading_focused_title_color_hover": "globals\/colors?id=db14066"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "6b654845",
+                                            "settings": {
+                                                "selected_icon": {
+                                                    "value": "fas fa-phone-alt",
+                                                    "library": "fa-solid"
+                                                },
+                                                "view": "stacked",
+                                                "title_text": "Call us anytime",
+                                                "description_text": "+62 812 3456 7890",
+                                                "title_size": "p",
+                                                "position": "left",
+                                                "content_vertical_alignment": "middle",
+                                                "title_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": 25,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "title_typography_typography": "globals\/typography?id=accent",
+                                                    "description_typography_typography": "globals\/typography?id=bd2d134",
+                                                    "primary_color": "globals\/colors?id=accent",
+                                                    "secondary_color": "globals\/colors?id=secondary",
+                                                    "hover_primary_color": "globals\/colors?id=accent",
+                                                    "hover_secondary_color": "globals\/colors?id=secondary",
+                                                    "title_color": "globals\/colors?id=secondary",
+                                                    "hover_title_color": "globals\/colors?id=secondary",
+                                                    "description_color": "globals\/colors?id=db14066",
+                                                    "_background_color": "globals\/colors?id=125156e"
+                                                },
+                                                "position_mobile": "left",
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": true
+                                                },
+                                                "_element_width_mobile": "initial",
+                                                "_element_custom_width_mobile": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "_flex_align_self": "center",
+                                                "_background_background": "classic",
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "20",
+                                                    "right": "20",
+                                                    "bottom": "20",
+                                                    "left": "20",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}
